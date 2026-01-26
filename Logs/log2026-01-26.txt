@@ -1,0 +1,15 @@
+2026-01-26 15:26:17,174 - Basepage.py:[64] - [INFO] - Typed 'standard_user' into element: LoginPageUsernameinputField_XPATH
+2026-01-26 15:26:17,363 - Basepage.py:[64] - [INFO] - Typed 'secret_sauce' into element: LoginPagePasswordinputField_XPATH
+2026-01-26 15:26:17,617 - Basepage.py:[58] - [INFO] - Clicked on element: LoginPageloginButton_XPATH
+2026-01-26 15:30:42,382 - Basepage.py:[64] - [INFO] - Typed 'standard_user' into element: LoginPageUsernameinputField_XPATH
+2026-01-26 15:30:42,449 - Basepage.py:[64] - [INFO] - Typed 'secret_sauce' into element: LoginPagePasswordinputField_XPATH
+2026-01-26 15:30:42,531 - Basepage.py:[58] - [INFO] - Clicked on element: LoginPageloginButton_XPATH
+2026-01-26 15:32:22,728 - Basepage.py:[64] - [INFO] - Typed 'standard_user' into element: LoginPageUsernameinputField_XPATH
+2026-01-26 15:32:22,797 - Basepage.py:[64] - [INFO] - Typed 'secret_sauce' into element: LoginPagePasswordinputField_XPATH
+2026-01-26 15:32:22,867 - Basepage.py:[58] - [INFO] - Clicked on element: LoginPageloginButton_XPATH
+2026-01-26 15:36:11,779 - Basepage.py:[64] - [INFO] - Typed 'standard_user' into element: LoginPageUsernameinputField_XPATH
+2026-01-26 15:36:11,829 - Basepage.py:[64] - [INFO] - Typed 'secret_sauce' into element: LoginPagePasswordinputField_XPATH
+2026-01-26 15:36:11,914 - Basepage.py:[58] - [INFO] - Clicked on element: LoginPageloginButton_XPATH
+2026-01-26 15:48:36,407 - Basepage.py:[78] - [INFO] - Typed 'standard_user' into element: LoginPageUsernameinputField_XPATH
+2026-01-26 15:48:36,479 - Basepage.py:[78] - [INFO] - Typed 'secret_sauce' into element: LoginPagePasswordinputField_XPATH
+2026-01-26 15:48:36,587 - Basepage.py:[71] - [INFO] - Clicked on element: LoginPageloginButton_XPATH
